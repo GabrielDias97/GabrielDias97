@@ -2,7 +2,7 @@
 
 - 🔥  Web Developer ;
 
-- 🔭 I’m currently studying at Udemy/Curso em Vídeo/RocketSeat/Hora de codar;
+- 🔭 I’m currently studying at Udemy/RocketSeat/Hora de codar;
 
 - 🌱 Skills: JavaScript, HTML, CSS and ReactJS;
 

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at Udemy/RocketSeat/Hora de codar;
 
-- 🌱 Skills: JavaScript, HTML, CSS and ReactJS;
+- 🌱 Skills: HTML, CSS, JavaScript, Typescript and ReactJS;
 
 - 📫 How to reach me: gabrieldiastrs@gmail.com.
 
